@@ -1,0 +1,12 @@
+﻿  BisectionAndNuton.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2357,1): fatal error C1088: Не удается очистить файл промежуточный код компилятора: C:\Users\Sunny\AppData\Local\Temp\_CL_5f14c5c0sy: No space left on device
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2357,1): message : Сообщение диагностики возникло в созданной компилятором функции "std::_String_val<std::_Simple_types<_Elem>>::~_String_val(void)"
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2357): message : см. ссылку на функцию "std::_String_val<std::_Simple_types<_Elem>>::~_String_val(void)"
+          with
+          [
+              _Elem=char
+          ]
